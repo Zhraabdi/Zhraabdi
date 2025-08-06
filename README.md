@@ -11,3 +11,9 @@ I am a **front-end developer** focused on creating modern, user-friendly interfa
 - **HTML5**
 - **Version Control**: Git, GitHub, GitFlow
 
+## How to Reach Me
+
+- 📧 Email: zahraw20000@gmail.com.
+
+I'm always excited to collaborate with new people in the tech community and learn from different experiences!
+

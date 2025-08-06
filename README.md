@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Zahra! 👋
 
-<!--
-**Zhraabdi/Zhraabdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **front-end developer** focused on creating modern, user-friendly interfaces. I strive to write clean, maintainable code and use the latest technologies to build high-quality projects.
+👀 I’m interested in front-end develpment
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **React** 
+- **JavaScript** 
+- **Tailwind CSS**
+- **CSS3**
+- **HTML5**
+- **Version Control**: Git, GitHub, GitFlow
+

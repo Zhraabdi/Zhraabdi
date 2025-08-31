@@ -10,7 +10,7 @@ I am a **front-end developer** focused on creating modern, user-friendly interfa
 - **Tailwind CSS**
 - **CSS3**
 - **HTML5**
-- - **Figma** 
+- **Figma** 
 - **Version Control**: Git, GitHub, GitFlow
 
   <p align="left"> 
